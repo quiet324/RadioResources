@@ -1,0 +1,37 @@
+[{
+	"id": 1,
+	"art": "album_category_1_art_faith_life.png",
+	"title": "信仰人生",
+	"albums": [1,2,3],
+},
+{
+	"id": 2,
+	"art": "album_category_2_art_healthy_living.png",
+	"title": "健康生活",
+	"albums": [1,2,3]
+},
+{
+	"id": 3,
+	"art": "album_category_3_art_grow_learn.png",
+	"title": "成长学习",
+	"albums": [1,2,3]
+},
+{
+	"id": 4,
+	"art": "album_category_4_art_workplace_wisdom.png",
+	"title": "职场智慧",
+	"albums": [1,2,3]
+},
+{
+	"id": 5,
+	"art": "album_category_5_art_friendship_dating.png",
+	"title": "交友恋爱",
+	"albums": [1,2,3]
+},
+{
+	"id": 6,
+	"art": "album_category_6_art_marriage_family.png",
+	"title": "婚姻家庭",
+	"albums": [1,2,3]
+},
+]

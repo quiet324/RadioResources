@@ -1,0 +1,30 @@
+[{
+	"id": 7000001,
+	"albumId": 0,
+	"albumName": "0",
+	"artistId": 7,
+	"artistName": "绝妙当家",
+	"duration": 300,
+	"title": "绝妙各行业：自由作家（上）",
+	"trackNumber": 1,
+	"playCountScore": 2,
+	"year": 2017,
+	"month": 5,
+	"day": 3,
+	"path": "https://cdn.rawgit.com/quiet324/RadioResources/b22c17c3/%E5%A4%A9%E8%B7%AF%E5%8E%86%E7%A8%8B%E5%B9%BF%E6%92%AD%E5%89%A7/01.mp3"
+},
+{
+	"id": 7000002,
+	"albumId": 0,
+	"albumName": "0",
+	"artistId": 7,
+	"artistName": "绝妙当家",
+	"duration": 300,
+	"title": "绝妙电影：返家十万里（下）",
+	"trackNumber": 2,
+	"playCountScore": 3,
+	"year": 2017,
+	"month": 5,
+	"day": 2,
+	"path": "https://cdn.rawgit.com/quiet324/RadioResources/b22c17c3/%E5%A4%A9%E8%B7%AF%E5%8E%86%E7%A8%8B%E5%B9%BF%E6%92%AD%E5%89%A7/01.mp3"
+},]
