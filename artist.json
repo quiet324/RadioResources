@@ -750,5 +750,459 @@ GO！GO！GO！
 		"large": "",
 		"extralarge": "extralarge"
 	}
+},
+{
+	"id": 35,
+	"albumCount": 0,
+	"name": "经动人心",
+	"oneword": "圣经广播剧",
+	"description": "基于圣经，加上创意，化作动人心弦的圣经广播剧！
+一起走进圣经人物的生命，体会他们的喜怒哀乐。
+认识救主耶稣基督，激励我们在生活中实践信仰。
+
+电邮：renxin@liangyou.net
+短信：13229966122（注明：人心）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_35_art_medium.png",
+		"large": "artist_35_art_large.jpg",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 36,
+	"albumCount": 0,
+	"name": "真道分解",
+	"oneword": "活出圣道真意义",
+	"description": "透过圣经66卷书的讲解和教导，与你一起查经、读经、研经，
+让神的话语扎根，栽培你灵命成长，帮助你活出信仰！
+
+电邮：zhendao@liangyou.net
+短信：13229966122（注明：真道）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_36_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 37,
+	"albumCount": 0,
+	"name": "聆听主道",
+	"oneword": "聆听主道，活出真理",
+	"description": "‘你为许多的事思虑烦扰，但是不可少的只有一件。安静下来，聆听主道，这是上好的福分，是不能夺去的。’
+神所重用的仆人，为当代信徒讲解圣经真道。
+让我们一同安静下来，靠近主脚前，用心——聆听主道。
+
+电邮：zhudao@liangyou.net
+短信：13229966122（注明：主道）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_37_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 38,
+	"albumCount": 0,
+	"name": "圣言盛宴",
+	"oneword": "来！一起轻松查经去",
+	"description": "透过小组查经的方式与呈现，带领听众明白神的圣言，领受属灵的丰盛筵席。
+
+电邮：shengyan@liangyou.net
+短信：13229966122（注明：圣言）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_38_art_medium.png",
+		"large": "artist_38_art_large.jpg",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 39,
+	"albumCount": 0,
+	"name": "善牧良言",
+	"oneword": "袁择善牧师谈信仰",
+	"description": "面对现代生活，基督徒如何运用圣经──神的话语活出信仰？
+袁择善牧师跟你畅谈！
+
+电邮：shanmu@liangyou.net
+短信：13229966122（注明：善牧）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_39_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 40,
+	"albumCount": 0,
+	"name": "好牧人",
+	"oneword": "活出丰盛生命",
+	"description": "本节目邀请牧师、传道人讲解圣经信息，借以帮助信徒属灵生命成长，为神做美好的见证。
+内容包括解析、明辨、教导、劝勉，甚或警诫等多方面的信息，鼓励信徒顺服实践圣经的教导，活出基督的生命。
+
+电邮：haomuren@liangyou.net",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_40_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 41,
+	"albumCount": 0,
+	"name": "与神同行",
+	"oneword": "查尔斯史达尼牧师讲章",
+	"description": "透过查尔斯史达尼牧师（Charles Stanley）的讲章，造就信徒灵命成长。
+
+电邮：tongxing@liangyou.net
+短信：13229966122（注明：同行）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_41_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 42,
+	"albumCount": 0,
+	"name": "生活之光",
+	"oneword": "史温道牧师讲道选集",
+	"description": "本节目的信息，是史温道牧师（Charles Swindoll）30多年来之讲道选集。节目包含三个讲道系列：在恩典中觉醒、奏出原本婚姻的乐章和旧约圣经人物的奇妙故事。
+讲道以圣经真理为基础，并融汇历代基督徒作家、神学家和知名牧者的观点论据，配合生活化的例子和个人经历，深入浅出，历久弥新，对信徒与非信徒的生命必能有所造就。
+
+电邮：shenghuo@liangyou.net
+短信：13229966122（注明：生活）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_42_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 43,
+	"albumCount": 0,
+	"name": "良院专区",
+	"oneword": "良院师生，学院动态",
+	"description": "透过圣经真理，帮助学员应用、实践良友圣经学院课程中所学，打造健康教会和工人！
+在这里，我们分享老师心声、牧长心语、学员见证等，并分享学院最新动态。
+
+电邮：chenxi@liangyou.net",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_43_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 44,
+	"albumCount": 0,
+	"name": "接棒人",
+	"oneword": "领袖训练教室",
+	"description": "《接棒人》专为教会领袖和事奉人员提供神学和教义训练，着重知识与灵命培育，
+并装备学员参与教会事奉与牧养，成为新一代的接棒人。
+
+电邮：jiebang@liangyou.net",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_44_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 45,
+	"albumCount": 0,
+	"name": "生根建造",
+	"oneword": "属灵真理栽培节目",
+	"description": "一个悔改得救的信徒，需要属灵真理的栽培，
+我们每集花一刻钟的时间，查考圣经真理，
+帮助大家的属灵生命往下扎根，向上结果。
+
+电邮：jianzao@liangyou.net",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_45_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 46,
+	"albumCount": 0,
+	"name": "晨曦讲座",
+	"oneword": "健康教会，健康工人",
+	"description": "良院牧者和师长每天与你分享，透过圣经真理建立你的生命与事奉；
+帮助学员应用、实践良院课程中所学，打造──健康教会，健康工人！
+
+栏目：
+星期日　　　良院讲台
+星期一　　　良院专区
+星期二　　　教牧新视野
+星期三　　　晨曦交流站
+星期四　　　宣教心之路
+星期五、六　从布道到培训
+
+电邮：chenxi@liangyou.net",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_46_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 47,
+	"albumCount": 0,
+	"name": "良友圣经学院（基础课程)",
+	"oneword": "装备教会义工",
+	"description": "为装备教会义工而设，适合初信者和预备报读本科文凭课程的信徒收听。",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_47_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 48,
+	"albumCount": 0,
+	"name": "良友圣经学院（本科文凭课程）",
+	"oneword": "装备服侍教会领袖",
+	"description": "为装备服侍教会的领袖而设，适合传道人修读。",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_48_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 49,
+	"albumCount": 0,
+	"name": "空中门训",
+	"oneword": "信徒成长栽培课程",
+	"description": "这个课程共分三个部分，每部分为期6个月，是给每个在耶稣基督里寻求成长的信徒。
+学习目的包括四方面：
+1.　更多了解耶稣基督并成为他的信徒；向主学习，务求更像主耶稣基督。
+2.　更多了解圣经及其教义；了解怎样在生活中实践圣经的教导，以体验完美的基督人生。
+3.　了解信徒组织的实质，以及其形成过程和运作方式。
+4.　通过众多寓言故事，了解到为什么主耶稣基督既是牧羊人，又是世人的王。
+
+电邮：menxun@liangyou.net",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_49_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 50,
+	"albumCount": 0,
+	"name": "良友圣经学院（进深文凭课程）",
+	"oneword": "供本科毕业生或传道人进修",
+	"description": "适合本科毕业生或传道人修读。",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_50_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 51,
+	"albumCount": 0,
+	"name": "齐来颂扬",
+	"oneword": "透过诗歌向你说话",
+	"description": "音乐是神赐给人类美好的礼物；诗歌是基督信仰丰富的宝藏。
+不同年代的基督徒用诗歌赞美神伟大奇妙的作为，表达对神的感恩、敬畏与委身。
+一首好的诗歌宛如一篇好的信息，能与灵魂对话，激励憾动人心。
+节目主持蒙恩得救以来，从学唱80年代的传统圣诗到今日的现代诗歌，细心品味每首诗歌的内涵与曲调，分享给喜爱诗歌的主内弟兄姊妹。
+
+栏目：
+星期一　生命之歌
+星期二　敬拜赞美、佳音团契
+星期三　心歌心曲
+星期四　敬拜赞美
+星期五　赞美旋律
+
+电邮：songyang@liangyou.net
+短信：13229966122（注明：颂扬）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_51_art_medium.png",
+		"large": "artist_51_art_large.jpg",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 52,
+	"albumCount": 0,
+	"name": "彩虹桥",
+	"oneword": "诗歌教唱与欣赏",
+	"description": "在《彩虹桥》，让我们学习诗歌赞美神。
+让诗歌栽培信徒、追求灵命成长、建立与神更亲密和美好的关系。
+此外，我们也为你带来诗歌创作机构或创作人的见证分享。
+
+栏目：
+星期一　　　故事与歌
+星期二　　　荒漠甘泉乐侣
+星期三、四　诗歌欣赏
+星期五　　　野地的花小语
+
+电邮：caihong@liangyou.net
+短信：13229966122（注明：彩虹）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_52_art_medium.png",
+		"large": "artist_52_art_large.jpg",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 53,
+	"albumCount": 0,
+	"name": "长夜的牵引",
+	"oneword": "分享与诗歌的结合",
+	"description": "有一束光，用跳跃的音符，带领着你和我穿过长夜。
+那是牵引，那是爱，进入自由的天地，显明真理。
+《长夜的牵引》，和你一起离开黑暗，迎向那光！
+个人信仰心路分享，渗透人心的诗歌，带来安慰和鼓励。
+
+电邮：changye@liangyou.net
+短信：13229966122（注明：长夜）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_53_art_medium.png",
+		"large": "artist_53_art_large.jpg",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 54,
+	"albumCount": 0,
+	"name": "蓝天绿洲",
+	"oneword": "以双语润人心",
+	"description": "想谋生？想人生？想生活？想生命？都可以一起来想。
+爱英语？爱思考？爱音乐？爱真理？也不妨共同去爱！
+
+电邮：haven@liangyou.net
+短信：13229966122（注明：蓝天）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_54_art_medium.png",
+		"large": "artist_54_art_large.jpg",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 55,
+	"albumCount": 0,
+	"name": "天路导向",
+	"oneword": "普通话，英语主题式讲座",
+	"description": "借由讲座信息，配以诗歌、祷告、内容简介和扼要总结，让听众更能掌握和了解信息内容。
+逐句英译中的讲道，帮助听众更好地吸收信息，并提高英文水平。
+
+电邮：daoxiang@liangyou.net",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_55_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 56,
+	"albumCount": 0,
+	"name": "天路导向（粤语）",
+	"oneword": "粤语，英语主题式讲座",
+	"description": "透过中英双语广播，提高你的英语水平；
+通过重点经文分享，引导你的人生方向。
+
+电邮：daoxiangyue@liangyou.net",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_56_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 57,
+	"albumCount": 0,
+	"name": "恩典与真理（回族）",
+	"oneword": "回民广播",
+	"description": "《恩典与真理》，引导你走上正义之路。
+愿你得着真主给你的色俩麦提和瑞孜给，因沙安拉。
+
+电邮：liangyou4@liangyou.net
+短信：13229966122（注明：恩典）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_57_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
+},
+{
+	"id": 58,
+	"albumCount": 0,
+	"name": "爱在人间（云南话）",
+	"oneword": "云南话广播",
+	"description": "因为爱，我们在这里相聚！
+谈天说地、分享故事、聆听诗歌、讨论信仰……
+汇集成为彩云之南的特色节目，把主耶稣的爱向各族人民传讲！
+在周末，更有“学道篇”播出，详细讲解圣经相关的课程和生活的指南。
+
+栏目：
+星期日　学道篇
+星期一　职场心理、身心健康你我他
+星期二　心灵驿站、安然居所、默想圣经人物
+星期三　耶稣生平、款款你的故事
+星期四　雨中心旋哆唻咪、祷告中的恩典、读心书
+星期五　心火故事
+星期六　学道篇
+
+电邮：liangyou4@liangyou.net
+短信：13229966122（注明：人间）",
+	"songCount": 40,
+	"art": {
+		"small": "small",
+		"medium": "artist_58_art_medium.png",
+		"large": "",
+		"extralarge": "extralarge"
+	}
 }
 ]
